@@ -11,3 +11,4 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | Plan and Create | People | Roles |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Deploy and Operate | Capabilities | Tools |
+| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Deploy and Operate | Information | Metrics |
