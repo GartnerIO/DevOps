@@ -9,3 +9,4 @@ This is a repository linking to published Gartner material written on DevOps (no
 | ------------- | ------------- | ------------- | 
 | [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186)  | People | Culture |  
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | People | Structure |
+| [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | People | Roles |
