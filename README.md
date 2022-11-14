@@ -5,10 +5,10 @@ This is a repository linking to published Gartner material written on DevOps (no
 
 
 
-| Document Name  | Lifecycle Stage | Focus Area |  
-| ------------- | ------------- | ------------- | 
-| [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186)  | People | Culture |  
-| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | People | Structure |
-| [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | People | Roles |
+| Document Name  | Value Stream Stage | Domain | Subdomain | 
+| ------------- | ------------- | ------------- | ------------- |
+| [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186) | Stage  | People | Culture |  
+| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Stage | People | Structure |
+| [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | Stage | People | Roles |
 | |
-| [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Capabilities | Tools |
+| [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Stage | Capabilities | Tools |
