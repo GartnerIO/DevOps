@@ -16,5 +16,5 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Deploy and Operate | Capabilities | Tools |
-| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Deploy and Operate | Information | Metrics |
+| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Monitor and Improve | Information | Metrics |
 
