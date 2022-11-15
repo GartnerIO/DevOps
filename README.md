@@ -13,5 +13,6 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Case Study: Developer-Centric Approach to Building a High-Value DevOps Toolchain (LexisNexis)](https://www.gartner.com/document/4020565) | Plan and Create | Capabilities | Tools |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Deploy and Operate | Capabilities | Tools |
-| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Deploy and Operate | Information | Metrics |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Deploy and Operate | Capabilities | Tools |
+| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Deploy and Operate | Information | Metrics |
+
