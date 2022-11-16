@@ -18,6 +18,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [3 Steps to Integrate Security Into DevOps](https://www.gartner.com/document/code/384500) | Plan and Create | Processes | Planning |
 | [Quick Answer: Are DevOps and DevSecOps Different?](https://www.gartner.com/document/code/767617) | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Plan and Create | Processes | Operating |
+||
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Deploy and Operate | Capabilities | Tools |
@@ -26,5 +27,6 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Deploy and Operate | Processes | Governing |
 | [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Deploy and Operate | Processes | Governing |
 | [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Deploy and Operate | Processes | Governing |
+||
 | [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Monitor and Improve | Information | Metrics |
 
