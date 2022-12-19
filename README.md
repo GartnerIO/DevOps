@@ -6,7 +6,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 
 
 | Document Name  | Source | Value Stream Stage | Domain | Subdomain | 
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186) | Plan and Create  | People | Culture |  
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | Plan and Create | People | Roles |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Plan and Create | Capabilities | Technologies |
