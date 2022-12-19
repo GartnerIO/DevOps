@@ -17,18 +17,18 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Ignition Guide to Value Stream Mapping of DevOps Process](https://www.gartner.com/document/code/746642) | Infrastructure and Operations Research Team | Plan and Create | Processes | Planning |
 | [3 Steps to Integrate Security Into DevOps](https://www.gartner.com/document/code/384500) | Software Engineering Practices | Plan and Create | Processes | Planning |
 | [Quick Answer: Are DevOps and DevSecOps Different?](https://www.gartner.com/document/code/767617) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
-| [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Plan and Create | Processes | Operating |
+| [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
-| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Deploy and Operate | People | Structure |
-| [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Deploy and Operate | Capabilities | Tools |
-| [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Deploy and Operate | Capabilities | Tools |
-| [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Deploy and Operate | Processes | Planning |
-| [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Deploy and Operate | Processes | Planning |
-| [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Deploy and Operate | Processes | Governing |
-| [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Deploy and Operate | Processes | Governing |
-| [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Deploy and Operate | Processes | Governing |
+| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
+| [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
+| [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
+| [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
+| [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Applications and Software Engineering Research Team | Deploy and Operate | Processes | Governing |
+| [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Governing |
+| [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
 ||
 ||
-| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Monitor and Improve | Information | Metrics |
+| [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
 
