@@ -31,7 +31,9 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Product Lines and DevOps Implementation (Autodesk)](https://www.gartner.com/document/3876373) | Infrastructure and Operations Research Team | Deploy and Operate | Processes | Planning | 
 | [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Applications and Software Engineering Research Team | Deploy and Operate | Processes | Governing |
 | [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Governing |
+| [Scale DevOps by Adapting Governance Frameworks and Processes](https://www.gartner.com/document/3987536) | Infrastructure and Operations Research Team | Deploy and Operate | Processes | Governing |
 | [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
+| [3 Steps to Improve the Reliability of Large, Complex and Distributed IT Systems by Leveraging SRE Principles](https://www.gartner.com/document/4017620) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
 ||
 ||
 | [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
