@@ -18,6 +18,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [3 Steps to Integrate Security Into DevOps](https://www.gartner.com/document/code/384500) | Software Engineering Practices | Plan and Create | Processes | Planning |
 | [Quick Answer: Are DevOps and DevSecOps Different?](https://www.gartner.com/document/code/767617) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
 | [DevOps Implementation Roadmap](https://www.gartner.com/document/3766814) | Applications and Software Engineering Research Team | Plan and Create | Processes | Planning |
+| [How DevOps Can Deliver Continual Customer Value Faster](https://www.gartner.com/document/3904064) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
@@ -27,6 +28,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
 | [Break Through the Barriers to Scaling Agile and Product-Centric Delivery](https://www.gartner.com/document/3988489) | Software Engineering Practices | Deploy and Operate | Processes | Planning | 
+| [Product Lines and DevOps Implementation (Autodesk)](https://www.gartner.com/document/3876373) | Infrastructure and Operations Research Team | Deploy and Operate | Processes | Planning | 
 | [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Applications and Software Engineering Research Team | Deploy and Operate | Processes | Governing |
 | [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Governing |
 | [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
