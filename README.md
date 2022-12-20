@@ -9,6 +9,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture |  
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | IT Operations and Cloud Management for Technical Professionals | Plan and Create | People | Roles |
+| [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
 | [Case Study: Developer-Centric Approach to Building a High-Value DevOps Toolchain (LexisNexis)](https://www.gartner.com/document/4020565) | Infrastructure, Operations and Cloud Management| Plan and Create | Capabilities | Tools |
@@ -22,7 +23,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [The Future of DevOps Toolchains Will Involve Maximizing Flow in IT Value Streams](https://www.gartner.com/document/code/464224) | Infrastructure and Operations Leaders | Plan and Create | Processes | Planning |
 | [How DevOps Can Deliver Continual Customer Value Faster](https://www.gartner.com/document/3904064) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
 | [How to Govern and Fund Platforms in a Product World](https://www.gartner.com/document/4005590) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Processes | Planning |
-| [How to Use Product Roadmaps for Funding and Governance of Agile Product Delivery Teams](https://www.gartner.com/document/code/731373) | Software Engineering Practices; CIO Leadership of Strategy; Governance and Operating ModelsEnterprise Architecture | Plan and Create | Processes | Planning |
+| [How to Use Product Roadmaps for Funding and Governance of Agile Product Delivery Teams](https://www.gartner.com/document/code/731373) | Software Engineering Practices; CIO Leadership of Strategy, Governance and Operating Models; Enterprise Architecture | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
