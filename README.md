@@ -19,6 +19,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Quick Answer: Are DevOps and DevSecOps Different?](https://www.gartner.com/document/code/767617) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
 | [DevOps Implementation Roadmap](https://www.gartner.com/document/3766814) | Applications and Software Engineering Research Team | Plan and Create | Processes | Planning |
 | [How DevOps Can Deliver Continual Customer Value Faster](https://www.gartner.com/document/3904064) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
+| [The Future of DevOps Toolchains Will Involve Maximizing Flow in IT Value Streams](https://www.gartner.com/document/code/464224) | Infrastructure and Operations Leaders | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
@@ -37,4 +38,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 ||
 ||
 | [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
+| [Use the Right Metrics in the Right Way for Enterprise Agile Delivery](https://www.gartner.com/document/code/732184) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
+| [Ignition Guide to Creating a DevOps Team Dashboard](https://www.gartner.com/document/3895901) | Infrastructure and Operations Research Team | Monitor and Improve | Information | Metrics |
+| [Data-Driven DevOps: Use Metrics to Guide Your Journey](https://www.gartner.com/document/3760663) | Infrastructure and Operations Leaders | Monitor and Improve | Information | Metrics |
 
