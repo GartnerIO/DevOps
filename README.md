@@ -26,6 +26,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
+| [Break Through the Barriers to Scaling Agile and Product-Centric Delivery](https://www.gartner.com/document/3988489) | Software Engineering Practices | Deploy and Operate | Processes | Planning | 
 | [Autonomy Through End-to-End Accountability (Standard Bank)](https://www.gartner.com/document/code/700626) | Applications and Software Engineering Research Team | Deploy and Operate | Processes | Governing |
 | [Innovation Insight for Continuous Compliance Automation](https://www.gartner.com/document/code/729146) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Governing |
 | [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
