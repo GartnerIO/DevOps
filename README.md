@@ -8,7 +8,14 @@ This is a repository linking to published Gartner material written on DevOps (no
 | Document Name  | Initiative | Value Stream Stage | Domain | Subdomain | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture |  
+| [Quick Answer: How Should Software Engineering Leaders Define DevOps for Their Organization?](https://www.gartner.com/document/4014489) | Software Engineering Practices | Plan and Create  | People | Culture | 
+| [DevOps Requires Faster Organizational Learning](https://www.gartner.com/document/3663217) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture | 
+| [How to Build a Collaborative DevOps Culture](https://www.gartner.com/document/3991722) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture | 
+| [Assessing Site Reliability Engineering (SRE) Principles for Building a Reliability-Focused Culture](https://www.gartner.com/document/3996091) | IT Operations and Cloud Management for Technical Professionals; Application Development for Technical Professionals | Plan and Create  | People | Culture | 
+| [3 Steps to Sustain Productivity and Collaboration in Remote Agile and DevOps Teams](https://www.gartner.com/document/code/723986) | Software Engineering Practices; Future of Work Reinvented Resource Center; Software Engineering Technologies | Plan and Create  | People | Culture | 
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | IT Operations and Cloud Management for Technical Professionals | Plan and Create | People | Roles |
+| [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
+| [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
@@ -30,6 +37,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
+| [How to Manage and Market Platforms as Products for DevOps Teams](https://www.gartner.com/document/3984891) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
 | [Break Through the Barriers to Scaling Agile and Product-Centric Delivery](https://www.gartner.com/document/3988489) | Software Engineering Practices | Deploy and Operate | Processes | Planning | 
