@@ -14,8 +14,13 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Assessing Site Reliability Engineering (SRE) Principles for Building a Reliability-Focused Culture](https://www.gartner.com/document/3996091) | IT Operations and Cloud Management for Technical Professionals; Application Development for Technical Professionals | Plan and Create  | People | Culture | 
 | [3 Steps to Sustain Productivity and Collaboration in Remote Agile and DevOps Teams](https://www.gartner.com/document/code/723986) | Software Engineering Practices; Future of Work Reinvented Resource Center; Software Engineering Technologies | Plan and Create  | People | Culture | 
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | IT Operations and Cloud Management for Technical Professionals | Plan and Create | People | Roles |
+| [How to Establish a Reskilling/Upskilling Talent Development Program for Software Engineering](https://www.gartner.com/document/code/744643) | Software Engineering Practices; Applications and Software Engineering Leaders | Plan and Create | People | Roles |
 | [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
 | [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
+| [Community of Practice Essentials](https://www.gartner.com/document/4013248) | Application Development for Technical Professionals | Plan and Create | People | Structure |
+| [How to Build Successful Communities of Practice for Knowledge Management](https://www.gartner.com/document/3956423) | Application Development for Technical Professionals | Plan and Create | People | Structure |
+| [Solution Path for Implementing a Cloud Center of Excellence](https://www.gartner.com/document/4014837) | Cloud Computing for Technical Professionals | Plan and Create | People | Structure |
+| [How to Deploy a Cloud Center of Excellence](https://www.gartner.com/document/4014036) | Executive Leadership: Cloud for Business EnablementCloud and Edge Infrastructure | Plan and Create | People | Structure |
 | [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
@@ -35,6 +40,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 ||
 ||
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [How to Manage and Market Platforms as Products for DevOps Teams](https://www.gartner.com/document/3984891) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
