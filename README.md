@@ -38,7 +38,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Ignition Guide to Creating and Communicating a DevOps Strategy](https://www.gartner.com/document/3889869) | Infrastructure and Operations Research Team | Plan and Create | People | Vision |
 | [A Mandate for MLOps, ModelOps and DevOps Coordination](https://www.gartner.com/document/4021577) | Software Engineering Practices; Artificial Intelligence | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
-| [Infographic: Top 10 Technology Trends Impacting DevOps](https://www.gartner.com/document/3995598) | Software Engineering Practices; Applications and Software Engineering Leaders | Capabilities | Technologies |
+| [Infographic: Top 10 Technology Trends Impacting DevOps](https://www.gartner.com/document/3995598) | Software Engineering Practices; Applications and Software Engineering Leaders | Plamd and Create | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
 | [Case Study: Developer-Centric Approach to Building a High-Value DevOps Toolchain (LexisNexis)](https://www.gartner.com/document/4020565) | Infrastructure, Operations and Cloud Management| Plan and Create | Capabilities | Tools |
 | [Improve IT Operations Agility and Efficiency With Kanban](https://www.gartner.com/document/3795064) | Plan and Create | Processes | Governing |
