@@ -24,7 +24,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [SRE and DevOps: End-to-End Accountability](https://www.gartner.com/document/code/715765) | Infrastructure, Operations and Cloud Management | Plan and Create | People | Roles |
 | [Revamping I&O Talent Strategy for Plugging Skills Gaps (Jones Lang LaSalle)](https://www.gartner.com/document/code/720766) | Infrastructure and Operations Research Team | Plan and Create | People | Roles |
 | [3 Steps to Staff the Product Owner Role to Strengthen Agile and DevOps Teams](https://www.gartner.com/document/code/463706) | Applications and Software Engineering Leaders | Plan and Create | People | Roles |
-| [Quick Answer: What Skill-Building Techniques Are Software Engineering Leaders Finding Effective?](https://www.gartner.com/document/4011024) | Plan and Create | People | Roles |
+| [Quick Answer: What Skill-Building Techniques Are Software Engineering Leaders Finding Effective?](https://www.gartner.com/document/4011024) | Software Engineering Practices; Applications and Software Engineering Leaders | Plan and Create | People | Roles |
 | [Essential Skills for Agile Development](https://www.gartner.com/document/4009740) | Application Development for Technical Professionals | Plan and Create | People | Roles |
 | [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
 | [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
