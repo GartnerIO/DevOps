@@ -50,6 +50,8 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [How to Govern and Fund Platforms in a Product World](https://www.gartner.com/document/4005590) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Processes | Planning |
 | [How to Use Product Roadmaps for Funding and Governance of Agile Product Delivery Teams](https://www.gartner.com/document/code/731373) | Software Engineering Practices; CIO Leadership of Strategy, Governance and Operating Models; Enterprise Architecture | Plan and Create | Processes | Planning |
 | [Readiness Assessment for Autonomy in Change and Release Management (Standard Bank)](https://www.gartner.com/document/code/723550) | Applications and Software Engineering Research Team | Plan and Create | Processes | Planning |
+| [Maximize the Success of Enterprise Agile: Utilize DevOps as the Accelerator](https://www.gartner.com/document/3969871) | Software Engineering Practices | Plan and Create | Processes | Planning |
+| [Integrating Security Into the DevSecOps Toolchain](https://www.gartner.com/document/code/377293) | Security of Applications and Data | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
@@ -64,6 +66,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Use Adaptive Release Governance to Remove Constraints to DevOps](https://www.gartner.com/document/3913813) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Planning |
 ||
 ||
+| [How to Build Agile Infrastructure Platforms That Enable Rapid Product Innovation](https://www.gartner.com/document/3994038) | Infrastructure and Operations Leaders; Infrastructure, Operations and Cloud Management | Deploy and Operate | Capabilities | Technologies |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [How to Manage and Market Platforms as Products for DevOps Teams](https://www.gartner.com/document/3984891) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
@@ -89,6 +92,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Top SRE Practices Needed by Teams Scaling DevOps](https://www.gartner.com/document/3886505) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
 ||
 ||
+| [Market Guide for Chaos Engineering](https://www.gartner.com/document/4015854) | Software Engineering Technologies | Monitor and Improve | Capabilities | Tools |
 | [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
 | [Use the Right Metrics in the Right Way for Enterprise Agile Delivery](https://www.gartner.com/document/code/732184) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
 | [Ignition Guide to Creating a DevOps Team Dashboard](https://www.gartner.com/document/3895901) | Infrastructure and Operations Research Team | Monitor and Improve | Information | Metrics |
