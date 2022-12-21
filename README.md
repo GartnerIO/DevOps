@@ -9,6 +9,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Use Open-Source Organizational Change Management to Drive DevOps Success](https://www.gartner.com/document/code/739186) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture |  
 | [Quick Answer: How Should Software Engineering Leaders Define DevOps for Their Organization?](https://www.gartner.com/document/4014489) | Software Engineering Practices | Plan and Create  | People | Culture | 
+| [Quick Answer: What Is Site Reliability Engineering?](https://www.gartner.com/document/4015749) | Infrastructure, Operations and Cloud Management | Plan and Create  | People | Culture | 
 | [DevOps Requires Faster Organizational Learning](https://www.gartner.com/document/3663217) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture | 
 | [How to Build a Collaborative DevOps Culture](https://www.gartner.com/document/3991722) | Infrastructure and Operations Leaders | Plan and Create  | People | Culture | 
 | [Assessing Site Reliability Engineering (SRE) Principles for Building a Reliability-Focused Culture](https://www.gartner.com/document/3996091) | IT Operations and Cloud Management for Technical Professionals; Application Development for Technical Professionals | Plan and Create  | People | Culture | 
@@ -17,12 +18,17 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Ignition Guide to Building a Change Communication Plan](https://www.gartner.com/document/3970836) | HR Practitioner Research Team | Plan and Create  | People | Culture | 
 | [New Roles and Skills for I&O Professionals in DevOps](https://www.gartner.com/document/code/720642) | IT Operations and Cloud Management for Technical Professionals | Plan and Create | People | Roles |
 | [How to Establish a Reskilling/Upskilling Talent Development Program for Software Engineering](https://www.gartner.com/document/code/744643) | Software Engineering Practices; Applications and Software Engineering Leaders | Plan and Create | People | Roles |
+| [Tool: DevOps Engineer Job Description](https://www.gartner.com/document/4005952) | Applications and Software Engineering Research Team | Plan and Create | People | Roles |
+| [Tool: Site Reliability Engineer Job Description](https://www.gartner.com/document/4009021) | https://www.gartner.com/document/4009021 | Plan and Create | People | Roles |
+| [SRE and DevOps: End-to-End Accountability](https://www.gartner.com/document/code/715765) | Infrastructure, Operations and Cloud Management | Plan and Create | People | Roles |
+| [Revamping I&O Talent Strategy for Plugging Skills Gaps (Jones Lang LaSalle)](https://www.gartner.com/document/code/720766) | Infrastructure and Operations Research Team | Plan and Create | People | Roles |
 | [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
 | [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Community of Practice Essentials](https://www.gartner.com/document/4013248) | Application Development for Technical Professionals | Plan and Create | People | Structure |
 | [How to Build Successful Communities of Practice for Knowledge Management](https://www.gartner.com/document/3956423) | Application Development for Technical Professionals | Plan and Create | People | Structure |
 | [Solution Path for Implementing a Cloud Center of Excellence](https://www.gartner.com/document/4014837) | Cloud Computing for Technical Professionals | Plan and Create | People | Structure |
-| [How to Deploy a Cloud Center of Excellence](https://www.gartner.com/document/4014036) | Executive Leadership: Cloud for Business EnablementCloud and Edge Infrastructure | Plan and Create | People | Structure |
+| [How to Deploy a Cloud Center of Excellence](https://www.gartner.com/document/4014036) | Executive Leadership: Cloud for Business Enablement; Cloud and Edge Infrastructure | Plan and Create | People | Structure |
+| [Enabling DevSecOps With Security Engineers](https://www.gartner.com/document/4018229) | Cybersecurity Research Team | Plan and Create | People | Structure |
 | [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Ignition Guide to Creating and Communicating a DevOps Strategy](https://www.gartner.com/document/3889869) | Infrastructure and Operations Research Team | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
@@ -39,23 +45,29 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [How DevOps Can Deliver Continual Customer Value Faster](https://www.gartner.com/document/3904064) | Infrastructure, Operations and Cloud Management | Plan and Create | Processes | Planning |
 | [How to Govern and Fund Platforms in a Product World](https://www.gartner.com/document/4005590) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Processes | Planning |
 | [How to Use Product Roadmaps for Funding and Governance of Agile Product Delivery Teams](https://www.gartner.com/document/code/731373) | Software Engineering Practices; CIO Leadership of Strategy, Governance and Operating Models; Enterprise Architecture | Plan and Create | Processes | Planning |
+| [Readiness Assessment for Autonomy in Change and Release Management (Standard Bank)](https://www.gartner.com/document/code/723550) | Applications and Software Engineering Research Team | Plan and Create | Processes | Planning |
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
 | [‘Upstream’ Your Software Testing for DevOps](https://www.gartner.com/document/3989450) | Software Engineering Technologies | Integrate and Test | Process | Building |
 | [4 Essential Steps to Implement Test Automation](https://www.gartner.com/document/3970713) | Software Engineering Technologies | Integrate and Test | Process | Building |
 | [Three Approaches to Building an Effective DevOps Product Release Capability](https://www.gartner.com/document/3841163) | Infrastructure and Operations Leaders | Integrate and Test | Process | Building |
+| [A Guidance Framework for Continuous Integration: The Continuous Delivery 'Heartbeat'](https://www.gartner.com/document/3857563) | Application Development for Technical Professionals | Integrate and Test | Process | Building |
 | [Best Practices to Enable Continuous Delivery With Containers and DevOps](https://www.gartner.com/document/3983596) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Operating |
 | [How to Adapt Testing Services to Thrive in a Product-Centric World](https://www.gartner.com/document/4008426) | Product Development | Integrate and Test | Process | Operating |
 | [Innovation Insight for Continuous Quality](https://www.gartner.com/document/code/383495) | Software Engineering Technologies | Integrate and Test | Process | Planning |
 | [Use Adaptive Release Governance to Remove Constraints to DevOps](https://www.gartner.com/document/3913813) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Planning |
 ||
 ||
-| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
-| [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [How to Manage and Market Platforms as Products for DevOps Teams](https://www.gartner.com/document/3984891) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
+| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
+| [Innovation Insight for Continuous Infrastructure Automation](https://www.gartner.com/document/4001005) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Building |
+| [Modernize ITSM to Meet the Demands of DevOps and Product Teams](https://www.gartner.com/document/4001370) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Planning |
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
 | [Break Through the Barriers to Scaling Agile and Product-Centric Delivery](https://www.gartner.com/document/3988489) | Software Engineering Practices | Deploy and Operate | Processes | Planning | 
@@ -66,10 +78,15 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [3 Steps to Ensure Compliance and Audit Success With DevOps](https://www.gartner.com/document/code/439920) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
 | [Balance Velocity and Risk by Having DevOps Teams Earn Leaner Processes](https://www.gartner.com/document/3892283) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
 | [3 Steps to Improve the Reliability of Large, Complex and Distributed IT Systems by Leveraging SRE Principles](https://www.gartner.com/document/4017620) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
+| [Top SRE Practices Needed by Teams Scaling DevOps](https://www.gartner.com/document/3886505) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
 ||
 ||
 | [How Software Engineering Leaders Can Use Value Stream Metrics to Improve Agile Effectiveness](https://www.gartner.com/document/code/749067) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
 | [Use the Right Metrics in the Right Way for Enterprise Agile Delivery](https://www.gartner.com/document/code/732184) | Software Engineering Practices | Monitor and Improve | Information | Metrics |
 | [Ignition Guide to Creating a DevOps Team Dashboard](https://www.gartner.com/document/3895901) | Infrastructure and Operations Research Team | Monitor and Improve | Information | Metrics |
 | [Data-Driven DevOps: Use Metrics to Guide Your Journey](https://www.gartner.com/document/3760663) | Infrastructure and Operations Leaders | Monitor and Improve | Information | Metrics |
+| [Innovation Insight for Chaos Engineering](https://www.gartner.com/document/code/714265) | Software Engineering Practices | Monitor and Improve | Process | Planning| 
+| [Demystifying Chaos Engineering for I&O](https://www.gartner.com/document/4016298) | Infrastructure, Operations and Cloud Management | Monitor and Improve | Process | Planning| 
+| [Innovation Insight for Observability](https://www.gartner.com/document/3991053) | Infrastructure, Operations and Cloud Management | Monitor and Improve | Process | Planning| 
+
 
