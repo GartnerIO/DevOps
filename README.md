@@ -25,6 +25,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Revamping I&O Talent Strategy for Plugging Skills Gaps (Jones Lang LaSalle)](https://www.gartner.com/document/code/720766) | Infrastructure and Operations Research Team | Plan and Create | People | Roles |
 | [3 Steps to Staff the Product Owner Role to Strengthen Agile and DevOps Teams](https://www.gartner.com/document/code/463706) | Applications and Software Engineering Leaders | Plan and Create | People | Roles |
 | [Quick Answer: What Skill-Building Techniques Are Software Engineering Leaders Finding Effective?](https://www.gartner.com/document/4011024) | Plan and Create | People | Roles |
+| [Essential Skills for Agile Development](https://www.gartner.com/document/4009740) | Application Development for Technical Professionals | Plan and Create | People | Roles |
 | [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
 | [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Community of Practice Essentials](https://www.gartner.com/document/4013248) | Application Development for Technical Professionals | Plan and Create | People | Structure |
@@ -35,6 +36,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [3 Steps to Kickstart Platform Engineering in Your Organization](https://www.gartner.com/document/4021031) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Ignition Guide to Creating and Communicating a DevOps Strategy](https://www.gartner.com/document/3889869) | Infrastructure and Operations Research Team | Plan and Create | People | Vision |
+| [A Mandate for MLOps, ModelOps and DevOps Coordination](https://www.gartner.com/document/4021577) | Software Engineering Practices; Artificial Intelligence | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
 | [Infographic: Top 10 Technology Trends Impacting DevOps](https://www.gartner.com/document/3995598) | Software Engineering Practices; Applications and Software Engineering Leaders | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
@@ -66,6 +68,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [6 Steps to Increase DevOps Release Velocity by Removing Constraints](https://www.gartner.com/document/3976133) | Software Engineering Practices; Software Engineering Technologies | Integrate and Test | Process | Operating |
 | [Innovation Insight for Continuous Quality](https://www.gartner.com/document/code/383495) | Software Engineering Technologies | Integrate and Test | Process | Planning |
 | [Use Adaptive Release Governance to Remove Constraints to DevOps](https://www.gartner.com/document/3913813) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Planning |
+| [3 Steps to Improve Test Data Management for Software Engineering](https://www.gartner.com/document/4021522) | Software Engineering Technologies | Integrate and Test | Process | Planning |
 ||
 ||
 | [How to Build Agile Infrastructure Platforms That Enable Rapid Product Innovation](https://www.gartner.com/document/3994038) | Infrastructure and Operations Leaders; Infrastructure, Operations and Cloud Management | Deploy and Operate | Capabilities | Technologies |
@@ -76,12 +79,14 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Platform Teams and AIOps Will Redefine DevOps Approaches by 2025](https://www.gartner.com/document/3995273) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Capabilities | Tools |
 | [Market Guide for Value Stream Delivery Platforms](https://www.gartner.com/document/4007023) | Software Engineering Technologies; Applications and Software Engineering Leaders; Infrastructure, Operations and Cloud Management; Software Engineering Practices | Deploy and Operate | Capabilities | Tools |
 | [Market Guide for Value Stream Management Platforms](https://www.gartner.com/document/4008133) | Software Engineering Technologies | Deploy and Operate | Capabilities | Tools |
-| [Infographic: Platforms and Tools to Scale the Delivery of High-Quality Software](https://www.gartner.com/document/4003506) | Software Engineering Technologies | eploy and Operate | Capabilities | Tools |
+| [Infographic: Platforms and Tools to Scale the Delivery of High-Quality Software](https://www.gartner.com/document/4003506) | Software Engineering Technologies | Deploy and Operate | Capabilities | Tools |
+| [Adopt Platform Engineering to Improve the Developer Experience](https://www.gartner.com/document/4021328) | Application Architecture and Integration for Technical Professionals | Deploy and Operate | Capabilities | Tools |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Innovation Insight for Continuous Infrastructure Automation](https://www.gartner.com/document/4001005) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Building |
+| [How to Automate Server Provisioning and Configuration Management](How to Automate Server Provisioning and Configuration Management) | Deploy and Operate | Processes | Building |
 | [Modernize ITSM to Meet the Demands of DevOps and Product Teams](https://www.gartner.com/document/4001370) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Planning |
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
