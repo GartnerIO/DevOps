@@ -41,7 +41,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Infographic: Top 10 Technology Trends Impacting DevOps](https://www.gartner.com/document/3995598) | Software Engineering Practices; Applications and Software Engineering Leaders | Plamd and Create | Capabilities | Technologies |
 | [How to Scale DevOps Workflows in Multicluster Kubernetes Environments](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Plan and Create | Capabilities | Tools |
 | [Case Study: Developer-Centric Approach to Building a High-Value DevOps Toolchain (LexisNexis)](https://www.gartner.com/document/4020565) | Infrastructure, Operations and Cloud Management| Plan and Create | Capabilities | Tools |
-| [Improve IT Operations Agility and Efficiency With Kanban](https://www.gartner.com/document/3795064) | Plan and Create | Processes | Governing |
+| [Improve IT Operations Agility and Efficiency With Kanban](https://www.gartner.com/document/3795064) | Infrastructure and Operations Leaders | Plan and Create | Processes | Governing |
 | [Use 8 Simple Steps to Get DevOps Right](https://www.gartner.com/document/code/719444) | Infrastructure and Operations Leaders | Plan and Create | Processes | Planning |
 | [Keys to DevOps Success](https://www.gartner.com/document/code/738227) | Application Development for Technical Professionals | Plan and Create | Processes | Planning |
 | [Ignition Guide to Value Stream Mapping of DevOps Process](https://www.gartner.com/document/code/746642) | Infrastructure and Operations Research Team | Plan and Create | Processes | Planning |
