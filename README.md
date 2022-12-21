@@ -86,7 +86,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Innovation Insight for Continuous Infrastructure Automation](https://www.gartner.com/document/4001005) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Building |
-| [How to Automate Server Provisioning and Configuration Management](How to Automate Server Provisioning and Configuration Management) | Deploy and Operate | Processes | Building |
+| [How to Automate Server Provisioning and Configuration Management](How to Automate Server Provisioning and Configuration Management) | IT Operations and Cloud Management for Technical Professionals | Deploy and Operate | Processes | Building |
 | [Modernize ITSM to Meet the Demands of DevOps and Product Teams](https://www.gartner.com/document/4001370) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Planning |
 | [Adopt an Iterative Approach to Drive DevOps Success in Large Organizations](https://www.gartner.com/document/code/746295) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Planning |
 | [Solution Path for Continuous Delivery With DevOps](https://www.gartner.com/document/code/741321) | Application Development for Technical Professionals | Deploy and Operate | Processes | Planning |
