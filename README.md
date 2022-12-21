@@ -31,6 +31,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Solution Path for Implementing a Cloud Center of Excellence](https://www.gartner.com/document/4014837) | Cloud Computing for Technical Professionals | Plan and Create | People | Structure |
 | [How to Deploy a Cloud Center of Excellence](https://www.gartner.com/document/4014036) | Executive Leadership: Cloud for Business Enablement; Cloud and Edge Infrastructure | Plan and Create | People | Structure |
 | [Enabling DevSecOps With Security Engineers](https://www.gartner.com/document/4018229) | Cybersecurity Research Team | Plan and Create | People | Structure |
+| [3 Steps to Kickstart Platform Engineering in Your Organization](https://www.gartner.com/document/4021031) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Create a Compelling Future-State Vision That Promotes Dialogue and Understanding](https://www.gartner.com/document/3998755) | CIO Leadership of Technology Talent, Culture and DEI | Plan and Create | People | Vision |
 | [Ignition Guide to Creating and Communicating a DevOps Strategy](https://www.gartner.com/document/3889869) | Infrastructure and Operations Research Team | Plan and Create | People | Vision |
 | [Hype Cycle for Agile and DevOps, 2022](https://www.gartner.com/interactive/hc/4016526) | Software Engineering Practices; Software Engineering Technologies | Plan and Create | Capabilities | Technologies |
@@ -90,6 +91,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [Balance Velocity and Risk by Having DevOps Teams Earn Leaner Processes](https://www.gartner.com/document/3892283) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Governing |
 | [3 Steps to Improve the Reliability of Large, Complex and Distributed IT Systems by Leveraging SRE Principles](https://www.gartner.com/document/4017620) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
 | [Top SRE Practices Needed by Teams Scaling DevOps](https://www.gartner.com/document/3886505) | Infrastructure and Operations Leaders | Deploy and Operate | Processes | Operating |
+| [Improve Product Reliability by Applying SRE Principles to Service Operations](https://www.gartner.com/document/4020616) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Processes | Operating |
 ||
 ||
 | [Market Guide for Chaos Engineering](https://www.gartner.com/document/4015854) | Software Engineering Technologies | Monitor and Improve | Capabilities | Tools |
