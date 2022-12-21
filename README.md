@@ -42,6 +42,15 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [7 Steps to Start and Evolve an SRE Practice](https://www.gartner.com/document/code/753447) | Infrastructure and Operations Leaders | Plan and Create | Processes | Operating |
 ||
 ||
+| [‘Upstream’ Your Software Testing for DevOps](https://www.gartner.com/document/3989450) | Software Engineering Technologies | Integrate and Test | Process | Building |
+| [4 Essential Steps to Implement Test Automation](https://www.gartner.com/document/3970713) | Software Engineering Technologies | Integrate and Test | Process | Building |
+| [Three Approaches to Building an Effective DevOps Product Release Capability](https://www.gartner.com/document/3841163) | Infrastructure and Operations Leaders | Integrate and Test | Process | Building |
+| [Best Practices to Enable Continuous Delivery With Containers and DevOps](https://www.gartner.com/document/3983596) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Operating |
+| [How to Adapt Testing Services to Thrive in a Product-Centric World](https://www.gartner.com/document/4008426) | Product Development | Integrate and Test | Process | Operating |
+| [Innovation Insight for Continuous Quality](https://www.gartner.com/document/code/383495) | Software Engineering Technologies | Integrate and Test | Process | Planning |
+| [Use Adaptive Release Governance to Remove Constraints to DevOps](https://www.gartner.com/document/3913813) | Infrastructure, Operations and Cloud Management | Integrate and Test | Process | Planning |
+||
+||
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
