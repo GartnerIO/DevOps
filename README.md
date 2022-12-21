@@ -24,6 +24,7 @@ This is a repository linking to published Gartner material written on DevOps (no
 | [SRE and DevOps: End-to-End Accountability](https://www.gartner.com/document/code/715765) | Infrastructure, Operations and Cloud Management | Plan and Create | People | Roles |
 | [Revamping I&O Talent Strategy for Plugging Skills Gaps (Jones Lang LaSalle)](https://www.gartner.com/document/code/720766) | Infrastructure and Operations Research Team | Plan and Create | People | Roles |
 | [3 Steps to Staff the Product Owner Role to Strengthen Agile and DevOps Teams](https://www.gartner.com/document/code/463706) | Applications and Software Engineering Leaders | Plan and Create | People | Roles |
+| [Quick Answer: What Skill-Building Techniques Are Software Engineering Leaders Finding Effective?](https://www.gartner.com/document/4011024) | Plan and Create | People | Roles |
 | [4 Steps to Create a DevOps Dojo That Accelerates Learning and Cultural Change](https://www.gartner.com/document/3982360) | Infrastructure and Operations Leaders | Plan and Create  | People | Structure | 
 | [Foster Communities of Practice to Ensure Successful DevOps](https://www.gartner.com/document/3975590) | Software Engineering Practices | Plan and Create | People | Structure |
 | [Community of Practice Essentials](https://www.gartner.com/document/4013248) | Application Development for Technical Professionals | Plan and Create | People | Structure |
@@ -68,12 +69,14 @@ This is a repository linking to published Gartner material written on DevOps (no
 ||
 ||
 | [How to Build Agile Infrastructure Platforms That Enable Rapid Product Innovation](https://www.gartner.com/document/3994038) | Infrastructure and Operations Leaders; Infrastructure, Operations and Cloud Management | Deploy and Operate | Capabilities | Technologies |
+| [Comparing DevOps Architecture to Automate Infrastructure and Operations for Software Development](https://www.gartner.com/document/4021722) | IT Operations and Cloud Management for Technical Professionals | Deploy and Operate | Capabilities | Technologies |
 | [How to Build and Evolve Your DevOps Toolchains](https://www.gartner.com/document/code/746845) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Beware the DevOps Toolchain Debt Collector](https://www.gartner.com/document/code/758231) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [How to Manage and Market Platforms as Products for DevOps Teams](https://www.gartner.com/document/3984891) | Infrastructure and Operations Leaders | Deploy and Operate | Capabilities | Tools |
 | [Platform Teams and AIOps Will Redefine DevOps Approaches by 2025](https://www.gartner.com/document/3995273) | Infrastructure, Operations and Cloud Management | Deploy and Operate | Capabilities | Tools |
 | [Market Guide for Value Stream Delivery Platforms](https://www.gartner.com/document/4007023) | Software Engineering Technologies; Applications and Software Engineering Leaders; Infrastructure, Operations and Cloud Management; Software Engineering Practices | Deploy and Operate | Capabilities | Tools |
 | [Market Guide for Value Stream Management Platforms](https://www.gartner.com/document/4008133) | Software Engineering Technologies | Deploy and Operate | Capabilities | Tools |
+| [Infographic: Platforms and Tools to Scale the Delivery of High-Quality Software](https://www.gartner.com/document/4003506) | Software Engineering Technologies | eploy and Operate | Capabilities | Tools |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Case Study: Infrastructure Platform Teams for Self-Service Delivery](https://www.gartner.com/document/4012552) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
 | [Why DevOps Success Requires Platform Teams](https://www.gartner.com/document/code/733282) | Infrastructure and Operations Leaders | Deploy and Operate | People | Structure |
